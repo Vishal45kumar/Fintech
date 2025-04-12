@@ -1,0 +1,45 @@
+                                                                                                                                                                                Enter number of people: 3
+Enter name of person 1: Ramesh
+Enter name of person 2: Suresh
+Enter name of person 3: Sakshi
+
+Ramesh, select items you ate (comma separated numbers):
+
+Available Items:
+1. Eggs - 10.98
+2. Drinks - 1.00
+3. Sausage - 1.00
+4. Coffee - 3.45
+Your choices: 1,3
+
+Suresh, select items you ate (comma separated numbers):
+
+Available Items:
+1. Eggs - 10.98
+2. Drinks - 1.00
+3. Sausage - 1.00
+4. Coffee - 3.45
+Your choices: 1,4
+
+Sakshi, select items you ate (comma separated numbers):
+
+Available Items:
+1. Eggs - 10.98
+2. Drinks - 1.00
+3. Sausage - 1.00
+4. Coffee - 3.45
+Your choices: 1,2
+
+=== FINAL BILL SUMMARY ===
+Grand Total: 18.92
+
+Items Breakdown:
+- Eggs (10.98): Ramesh, Suresh, Sakshi
+- Drinks (1.00): Sakshi
+- Sausage (1.00): Ramesh
+- Coffee (3.45): Suresh
+
+Individual Shares:
+Ramesh: 4.66 (24.6%)
+Sakshi: 4.66 (24.6%)
+Suresh: 7.11 (37.6%)
